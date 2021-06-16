@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+body {
+  width: 450px;
+  background: #3367d6;
+}
+.main-title {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+#content {
+  padding: 20px;
+}
+#start-playlist-btn {
+  width: 100%;
+  padding: 10px 0px 10px 0px;
+  color: white;
+  font-weight: bolder;
+  letter-spacing: 1px;
+  margin-top: 20px;
+  background-color: #234fa8;
+  border-color: #234fa8;
+  border: none;
+}
+#start-playlist-btn:hover {
+  cursor: pointer;
+}
+#content h1 {
+  text-align: center;
+  color: white;
+  letter-spacing: 5px;
+}
+#bookmarks-select-tag {
+  width: 100%;
+  padding: 10px;
+}
+#bookmarks-select-tag:hover {
+  cursor: pointer;
+}
